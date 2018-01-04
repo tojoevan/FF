@@ -9,5 +9,9 @@
 1.深圳湾 https://zhuanlan.zhihu.com/shenzhenware  
 2.量子位 https://zhuanlan.zhihu.com/qbitai
 
+#### 网上课堂
+
+1.AI 慕课学院 http://www.mooc.ai/
+
 
 
