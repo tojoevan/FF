@@ -19,6 +19,12 @@
 
 2.comma.ai Driving Agent https://github.com/commaai/openpilot
 
+#### News
+
+1.AI Weekly http://aiweekly.co/
+
+
+
 
 
 
