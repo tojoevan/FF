@@ -2,7 +2,8 @@
 
 #### 网站
 
-1.深圳湾 https://www.shenzhenware.com/
+1.深圳湾 https://www.shenzhenware.com/  
+2.机器之心 https://www.jiqizhixin.com/
 
 #### 知乎专栏
 
