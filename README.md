@@ -2,12 +2,14 @@
 
 #### 网站
 
-1.深圳湾 https://www.shenzhenware.com/
+1.深圳湾 https://www.shenzhenware.com/  
+2.机器之心 https://www.jiqizhixin.com/
 
 #### 知乎专栏
 
 1.深圳湾 https://zhuanlan.zhihu.com/shenzhenware  
-2.量子位 https://zhuanlan.zhihu.com/qbitai
+2.量子位 https://zhuanlan.zhihu.com/qbitai  
+3.机器之心 https://zhuanlan.zhihu.com/jiqizhixin
 
 #### 网上课堂
 
