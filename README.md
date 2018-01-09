@@ -3,7 +3,8 @@
 #### 网站
 
 1.深圳湾 https://www.shenzhenware.com/  
-2.机器之心 https://www.jiqizhixin.com/
+2.机器之心 https://www.jiqizhixin.com/  
+3.奇笛网 http://www.qidic.com/
 
 #### 知乎专栏
 
@@ -25,6 +26,10 @@
 #### News
 
 1.AI Weekly http://aiweekly.co/
+
+#### 微信订阅号
+
+1.奇笛网
 
 #### References
 
