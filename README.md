@@ -1,5 +1,7 @@
 # SmartCodeUnited
 
+关注热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)
+
 #### 网站
 
 1.深圳湾 https://www.shenzhenware.com/  
