@@ -6,7 +6,14 @@
 
 1.深圳湾 https://www.shenzhenware.com/  
 2.机器之心 https://www.jiqizhixin.com/  
-3.奇笛网 http://www.qidic.com/
+3.奇笛网 http://www.qidic.com/  
+
+#### 平台
+
+1.小米 IoT 平台 http://iot.mi.com/  
+2.百度 AI 开放平台 http://ai.baidu.com/  
+3.科大讯飞 AIUI 开发平台 http://aiui.xfyun.cn  
+4.机智云 http://www.gizwits.com/
 
 #### 知乎专栏
 
