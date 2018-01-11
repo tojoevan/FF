@@ -1,6 +1,6 @@
 # FF
 
-关注未来热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)
+关注未来热门新技术：IoT(物联网)/IoV(车联网)/AI(人工智能)/AR(增强现实)/VR(虚拟现实)/MR(混合现实)/Deep Learning(深度学习)/Big Data(大数据)/Self Driving(自动驾驶)/3D Printing(3D 打印)/UAV(无人机)/Block Chain(区块链)
 
 #### 网站
 
@@ -13,7 +13,13 @@
 1.小米 IoT 平台 http://iot.mi.com/  
 2.百度 AI 开放平台 http://ai.baidu.com/  
 3.科大讯飞 AIUI 开发平台 http://aiui.xfyun.cn  
-4.机智云 http://www.gizwits.com/
+4.机智云 http://www.gizwits.com/  
+5.思必驰 http://www.aispeech.com/
+
+#### 产品
+
+1.大疆 https://www.dji.com
+
 
 #### 知乎专栏
 
